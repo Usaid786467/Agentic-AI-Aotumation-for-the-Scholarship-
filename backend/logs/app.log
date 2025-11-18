@@ -1,0 +1,11 @@
+[2025-11-18 18:04:33] INFO in gemini_service (__init__): Gemini AI service initialized successfully
+[2025-11-18 18:04:33] INFO in app (create_app): Application initialized successfully
+[2025-11-18 18:04:46] INFO in gemini_service (__init__): Gemini AI service initialized successfully
+[2025-11-18 18:04:46] INFO in app (create_app): Application initialized successfully
+[2025-11-18 18:04:46] INFO in app (<module>): Database tables created
+[2025-11-18 18:04:48] INFO in gemini_service (__init__): Gemini AI service initialized successfully
+[2025-11-18 18:04:48] INFO in app (create_app): Application initialized successfully
+[2025-11-18 18:04:48] INFO in app (<module>): Database tables created
+[2025-11-18 18:05:13] INFO in auth (register): New user registered: john@example.com
+[2025-11-18 18:06:27] INFO in auth (login): User logged in: john@example.com
+[2025-11-18 18:06:58] INFO in auth (login): User logged in: john@example.com
